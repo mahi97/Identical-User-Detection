@@ -14,3 +14,7 @@ We used graph classification over the sub-graph between author id to decide whet
 Although this sub-graph is a local view, we used global information to generate features for nodes.
 
 Sampling strategy for negative cases is critical. We use many different techniques to develop good sampling that shows promising performance while avoiding overfitting to reach generalization.
+
+-----
+
+more detail are in [report](https://github.com/mahi97/Identical-User-Detection/blob/master/AI607_Final.pdf) and [notebook](https://github.com/mahi97/Identical-User-Detection/blob/master/nb.ipynb)
